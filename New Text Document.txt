@@ -1,0 +1,8 @@
+nb  #0f2656
+sb #008aff
+border #eef0f3
+
+r  #f15767
+p #fdebed
+g #ebf9f4
+y #fff7e9
